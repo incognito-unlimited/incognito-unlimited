@@ -6,8 +6,6 @@ AI Engineer and DSA Enthusiast
 
 AI/ML Developer specializing in agentic workflows and multi-agent reasoning systems. I bridge the gap between advanced language model orchestration and production-ready applications.
 
-.
-
 \- 🧠 Actively building with FastAPI, React, LangChain, and modern data layers (Supabase + Drizzle).
 
 \- 🏆 4th Place winner at IIT Delhi Hackathon for building an autonomous, real-time "Among Us" multi-agent deduction engine.
